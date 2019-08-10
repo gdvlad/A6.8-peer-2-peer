@@ -1,0 +1,22 @@
+#greyProgress {
+	width: 50vw;
+	background-color: #ddd;
+	margin-left: 50px;
+}
+
+#greenBar1, #greenBar2, #greenBar3 {
+	width: 0%;
+	height: 30px;
+	background-color: #4CAF50;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+}
+
+.button {
+	margin-left: 50px;
+}
+
+button {
+	width: 100px;
+}
